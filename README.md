@@ -1,2 +1,0 @@
-# scratch
-My Scratch Pad
