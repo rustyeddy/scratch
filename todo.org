@@ -1,0 +1,10 @@
+* Todo list
+
+** TODO Rehash http://clowops.dev with fresh info
+** TODO Raspberry Pi Zero
+*** TODO RPI Zero and i2c with arduino nano (tlv)
+*** TODO RPI-Z and home management system
+** TODO Application Management with Ansible 
+*** Manage application provisioning with ansible
+** TODO Cloud automation with ansible
+

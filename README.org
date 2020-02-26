@@ -1,3 +1,40 @@
 * Scratch Pad
 
-This is my scratch pad filled with some randomness.
+This is my scratch pad filled with some randomness. I am just now
+*re-learning* org mode. It is very powerful, yet with quite a learning
+curve. 
+
+** Outline Mode 
+   
+
+The main thing about outline mode is that you can use your Asterix
+to mark your headings.
+
+They can easily cycle through heading levelsReducing the amountOf
+texture looking at, kind of like in outline mode.
+
+** Todo lists
+
+This tool makes a great way to create todo lists. I just have to learn
+how to use it.  I do know that creating a heading prefaced with the
+text TODO will create a todo item!
+
+*** TODO learn to use todo lists
+
+Ok now I must learn to use todolists since I have made a verbal
+commitment as such.
+
+**** DONE learn to mark an item done.
+
+To make an item complete or done, just move the marker to that line
+and hit the key sequence: 'C-c C-t'. It will turn green and we are
+ready to go.
+
+** Agendas
+
+It also creates agendas, by storing TODO's, and events it can also
+create agendas.  Just use the key combo:
+
+> \C-ca
+
+Will result in a popup window with options to select an agenda.
