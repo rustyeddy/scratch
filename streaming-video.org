@@ -1,0 +1,16 @@
+* Streaming Video :mjpeg:h264:
+
+[[https://blog.angelcam.com/what-is-the-difference-between-mjpeg-and-h-264/][** MJPEG vs H264 
+
+MJPEG vs H264 and RTSP]] is a good overview article
+
+[[https://bensoftware.com/blog/comparison-of-streaming-formats/][An more indepth article]] that does a really good job given a balanced
+description  
+
+*** RPI Camera References
+
+[[https://elinux.org/RPi-Cam-Web-Interface][RPI Camera WebInterface]]
+
+** What About audio.?.
+
+We will want to capture and transmit audio, no doubt.

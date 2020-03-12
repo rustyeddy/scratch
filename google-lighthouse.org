@@ -1,0 +1,7 @@
+* Google Lighthouse :performance:
+
+This looks like a _web performance_ site on steriods.
+
+https://developers.google.com/speed/pagespeed/insights/
+
+All pages we own or build should be run through these page insights. 

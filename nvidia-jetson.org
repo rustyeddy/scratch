@@ -1,0 +1,12 @@
+* NVidia Deep Learning
+
+- https://developer.download.nvidia.com/assets/embedded/secure/jetson/Nano/docs/NVIDIA_Jetson_Nano_Developer_Kit_User_Guide.pdf?EPL-VykUTgOHWpOWg9wkQlAMtWLi8xkOz6rtdGD3VK6uiuqMFhyobXOD2CwdZX-wmPq1UvRulBEt_iumFMaF8sujh1WQjEvtQZ3_EZK7l2SJYC13ErlKShqxehs_yN5kVNZOeuMVPJLONGhKoN6upcfJ6KuGJVLSa-UfIBb5uLQDqVHqNVfrDnHyejmjd79ZxMQr9h0l
+
+** Getting Started Course
+
+Part one of the course starts here [[https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/course/][AI Intro Course]].
+
+** Install Jupyter Lab Notebooks
+
+I got Jupyter notebooks installed. Now I have to find the ones used in
+the demo.  

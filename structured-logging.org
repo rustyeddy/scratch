@@ -1,0 +1,23 @@
+* Structured Logging
+** Structured Logging in Go
+
+*** Articles
+
++ [[https://medium.com/@tjholowaychuk/apex-log-e8d9627f4a9a#.rav8yhkud][Medium Article]] about the Apex structured logging package
+
+*** Structured Loggers in Go
+
+
++ [[https://github.com/sirupsen/logrus][Logrus]] the original Go structured logger
++ [[https://github.com/rs/zerolog][Zerolog]] a very fast structured logger by Netflix
++ [[https://github.com/uber-go/zap][Zap]] another very fast structure logger by Uber
+
+** Select Apex for Go
+
+It looks good and very similar to the standard / logrus logger. I
+started using it on the [[http://rustyeddy.com/redeye][RedEye]] project. I really like it so far.
+
+I have been using CLI mode, you can dictate the loggers by creating
+custom handlers also, which can come in handy depending on the log
+aggregation tool we use.
+

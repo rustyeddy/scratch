@@ -1,0 +1,20 @@
+* Sympan.org
+
+Getting setup.
+
+** Domain Name :sympan.ai:
+
+Bought the domain name sympan.ai from namecheap.com: sympan.ai
+
+*** Moved Domain to Digital Ocean
+
+
+** Signed up for GMail :waiting:
+
+** Website
+
+*** Github account created
+*** Hugo Site Generated
+*** Styled with Bootstrap
+
+*** Github configured to host website

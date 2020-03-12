@@ -1,0 +1,4 @@
+* Github Workflows
+
+They sound really cool, but also a lot of stuff to figure out, quite a
+learning curve I think.  

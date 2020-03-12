@@ -5,3 +5,8 @@
 
 So far, I have been able to get GoCV running on a normal linux
 desktop, the experience has been pretty simple, very easy to do.
+
+* TODO Get face recognition working
+* TODO Produce a JPEGM video server
+* TODO Learn to efficiently use OCV data types
+

@@ -5,10 +5,13 @@ This is my scratch pad filled with some randomness. I am just now
 curve. 
 
 ** Outline Mode 
-   
 
-The main thing about outline mode is that you can use your Asterix
-to mark your headings.
+A very good tutorial on Emacs org mode is here
+[[https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html#org164ca00][org tutorial here]]   
+
+The main thing about outline mode is that you can use the tab key on
+lines with heaers (Asterix) it will cycle through collapsing windows
+that you do not want to be in focus at the moment.
 
 They can easily cycle through heading levelsReducing the amountOf
 texture looking at, kind of like in outline mode.

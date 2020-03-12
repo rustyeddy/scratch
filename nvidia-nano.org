@@ -1,0 +1,8 @@
+* NVidia Nano 
+
+This is a badass little SoC with a powerful processor and 128 GPUs,
+this is the place.
+
+PDF with all the developer downloads: 
+
+- https://developer.download.nvidia.com/assets/embedded/secure/jetson/Nano/docs/NVIDIA_Jetson_Nano_Developer_Kit_User_Guide.pdf?EPL-VykUTgOHWpOWg9wkQlAMtWLi8xkOz6rtdGD3VK6uiuqMFhyobXOD2CwdZX-wmPq1UvRulBEt_iumFMaF8sujh1WQjEvtQZ3_EZK7l2SJYC13ErlKShqxehs_yN5kVNZOeuMVPJLONGhKoN6upcfJ6KuGJVLSa-UfIBb5uLQDqVHqNVfrDnHyejmjd79ZxMQr9h0l
